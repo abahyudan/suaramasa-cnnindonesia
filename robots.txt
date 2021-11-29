@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://victorious.my.id/sitemap.xml
+Sitemap: https://wallet.suaramasa.com/sitemap.xml
