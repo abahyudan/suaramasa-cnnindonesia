@@ -1,8 +1,8 @@
 {
-  "name-web":"STACKOVERFLOW MASKODING",
-  "author":"MASKODING",
+  "name-web":"https://wallet.suaramasa.com",
+  "author":"https://wallet.suaramasa.com",
   "remove-comment-html":true,
-  "target":"https://m.tribunnews.com",
+  "target":"https://coinmarketcap.vn/",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
@@ -20,20 +20,20 @@
   ],
   "costom-element-remove":[
     {
-      "target":"stackoverflow.com",
+      "target":"coinmarketcap.vn",
       "element-remove-selector":[
         ".js-dismissable-hero",
         ".lazy-loading"
       ],
       "replace-string":[
         {
-          "target":"https://stackoverflow.com",
+          "target":"coinmarketcap.vn",
           "replace":"${nameWeb}"
         }
       ]
     },
     {
-      "target":"m.tribunnews.com",
+      "target":"coinmarketcap.vn",
       "element-remove-selector":[
         ".baca",
         ".op-interactive",
